@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 - Resolved deprecation warnings
 - Added type hints to helper functions
 - Fixed minor edge case in input handling
+
+## 2026-03-23
+- Improved error handling in edge cases
+- Cross-checked behaviour against spec
